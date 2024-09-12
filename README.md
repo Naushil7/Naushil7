@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a passionate data scientist and machine learning enthusiast with a knack for turning data into actionable insights. I love solving complex problems and continuously learning new technologies.<br><br>About Me:<br>🎯 I’m currently working on: Developing predictive models and optimizing data pipelines to drive impactful business decisions.<br>🤝 I’m looking to collaborate on: Open-source projects in machine learning, data analytics, and AI-driven solutions.<br>🧠 I’m looking for help with: Exploring advanced techniques in deep learning and AI ethics.<br>🌱 I’m currently learning: Generative AI, MLOps, and how to integrate cutting-edge algorithms into scalable systems.<br>💬 Ask me about: Machine learning, data science, and how to break down complex problems into simple solutions.<br>⚡ Fun fact: I’m an avid chess player and love applying strategic thinking from the game to data science challenges.
 
 
